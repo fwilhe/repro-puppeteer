@@ -1,0 +1,9 @@
+{
+  "name": "repro-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^19.3.0"
+  }
+}
